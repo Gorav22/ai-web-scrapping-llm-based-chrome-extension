@@ -1,5 +1,7 @@
 # LLM assisted Web Scraping Browser Extension  
 
+![ai-web-scrapping-llm-based-chrome-extension](https://socialify.git.ci/Gorav22/ai-web-scrapping-llm-based-chrome-extension/image?custom_description=A+Chrome+Extension+that+can+extract+website+data+using+selenium+and+beautiful+soup+i.e+bs4.+also+used+fastapi+for+routing+with+llm+that+is+Groq&description=1&font=JetBrains+Mono&language=1&name=1&owner=1&pattern=Brick+Wall&stargazers=1&theme=Auto)
+
 ## 📌 Project Overview  
  A LLM assisted Web Scraping Browser Extension using FastAPI, BeautifulSoup, Selenium, and Llama 3.3 with LangChain (Groq's model). It extracts and structures web data, allowing users to input URLs, scrape dynamic content, and download data in CSV, JSON, XML, and Excel formats with AI-based parsing and future scalability.
 
